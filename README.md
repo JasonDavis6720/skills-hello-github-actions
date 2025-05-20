@@ -1,6 +1,6 @@
 <header>
 
-# Hello GitHub Actions emoji: :smiley:
+# Hello GitHub Actions :smiley:
 
 _Create and run a GitHub Actions workflow._
 
